@@ -29,8 +29,8 @@ University of Science and Technology, *09/2016 - 06/2020*
 
 Bytedance AI Lab, *06/2020 - 07/2021*
 * Research intern at LITG group. Mentor: Dr. Hang Li
-* Conduct research on text generation. One paper in submission.
+* Conduct research on text generation. One paper on ACL 2022.
 
 Microsoft Research Asia, *10/2019 - 07/2020*
 * Research intern at Machine Learning group. Mentor: Dr. Tao Qin
-* Conduct research on machine translation. Three papers on ICML 2021, ACML journal track 2021, and IWSLT Workshop 2021
+* Conduct research on machine translation. Three papers on ICML 2021, ACML journal track 2021, and IWSLT Workshop 2021.
