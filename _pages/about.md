@@ -19,6 +19,7 @@ University of Science and Technology, *09/2016 - 06/2020*
 * B.S. in Electronic Engineering and Information Science
 
 ## Publications
+* **Xueqing Wu**, Kung-Hsiang Huang, Yi Fung, Heng Ji, *Cross-document Misinformation Detection based on Event Graph Reasoning*, NAACL. 2022. (To Appear)
 * **Xueqing Wu**, Jiacheng Zhang, Hang Li, *Text-to-Table: A New Way of Information Extraction*, ACL. 2022. [Link](https://arxiv.org/abs/2109.02707)
 * **Xueqing Wu**, Lewen Wang, Yingce Xia, Weiqing Liu, Lijun Wu, Shufang Xie, Tao Qin, Tie-Yan Liu, *Temporally Correlated Task Scheduling for Sequence Learning*, ICML. 2021. [Link](http://proceedings.mlr.press/v139/wu21e.html)
 * **Xueqing Wu**, Yingce Xia, Jinhua Zhu, Lijun Wu, Shufang Xie, Tao Qin, *A Study of BERT for Context-Aware Neural Machine Translation*, ACML journal track. 2021. [Link](https://link.springer.com/article/10.1007/s10994-021-06070-y)
