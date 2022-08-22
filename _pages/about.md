@@ -4,11 +4,11 @@ title: ""
 author_profile: true
 ---
 
-I am a M.S. student in computer science in University of Illinois Urbana-Champaign (UIUC) working with Prof. Heng Ji since 08/2021. Prior to that, I got my B.S. degree from University of Science and Technology of China (USTC) in 2020, and I have work experience in Microsoft Research Asia (MSRA) and Bytedance AI Lab.
+I am a M.S. student in computer science in University of Illinois Urbana-Champaign (UIUC) working with Prof. Heng Ji since 08/2021. Prior to that, I got my B.S. degree from University of Science and Technology of China (USTC) in 2020. I have work experience in IBM Research, Bytedance AI Lab and Microsoft Research Asia (MSRA).
 
 My research interests lie in Natural Language Processing (NLP), especially text generation, information extraction, and knowledge-aware NLP.
 
-**I'm looking for PhD positions for fall 2023.**
+**I'm looking for PhD positions for fall 2023, and internship positions for summer 2023.**
 
 ## Education
 
@@ -30,7 +30,7 @@ University of Science and Technology, *09/2016 - 06/2020*
 
 ## Employment
 
-IBM Research, *05/2022 - Present*
+IBM Research, *05/2022 - 08/2022*
 * Research intern at knowledge induction group. Mentor: Alfio Glozzio
 
 Bytedance AI Lab, *06/2020 - 07/2021*
