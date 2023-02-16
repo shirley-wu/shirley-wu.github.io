@@ -6,7 +6,7 @@ author_profile: true
 
 I am a M.S. student in computer science in University of Illinois Urbana-Champaign (UIUC) working with Prof. Heng Ji since 08/2021. Prior to that, I got my B.S. degree from University of Science and Technology of China (USTC) in 2020. I have work experience in IBM Research, Bytedance AI Lab and Microsoft Research Asia (MSRA).
 
-My research interests lie in Natural Language Processing (NLP), especially text generation, information extraction, and knowledge-aware NLP.
+My research interests lie in Natural Language Processing (NLP), especially information extraction, text generation, and knowledge-aware NLP.
 
 **I'm looking for PhD positions for fall 2023, and internship positions for summer 2023.**
 
