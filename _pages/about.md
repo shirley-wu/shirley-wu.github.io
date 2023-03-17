@@ -8,13 +8,11 @@ I am a M.S. student in computer science in University of Illinois Urbana-Champai
 
 My research interests lie in Natural Language Processing (NLP), especially information extraction, text generation, and knowledge-aware NLP.
 
-**I'm looking for PhD positions for fall 2023, and internship positions for summer 2023.**
-
 ## Education
 
-University of Illinois Urbana-Champaign, *08/2021 - present*
+University of Illinois Urbana-Champaign, *08/2021 - 05/2023*
 
-* M.S. (thesis) in Computer Science. Advisor: Prof. Heng Ji
+* M.S. in Computer Science. Advisor: Prof. Heng Ji
 
 University of Science and Technology, *09/2016 - 06/2020*
 
