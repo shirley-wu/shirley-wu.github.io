@@ -34,6 +34,7 @@ University of Science and Technology, *09/2016 - 06/2020*
 
 IBM Research, *05/2022 - 08/2022*
 * Research intern at knowledge induction group. Mentor: Alfio Glozzio
+* Conduct research on tabular data processing. One paper on ACL 2023 findings.
 
 Bytedance AI Lab, *06/2020 - 07/2021*
 * Research intern at LITG group. Mentor: Dr. Hang Li
