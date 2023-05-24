@@ -4,7 +4,7 @@ title: ""
 author_profile: true
 ---
 
-I am a M.S. student in computer science in University of Illinois Urbana-Champaign (UIUC) working with Prof. Heng Ji since 08/2021. Prior to that, I got my B.S. degree from University of Science and Technology of China (USTC) in 2020. I have work experience in IBM Research, Bytedance AI Lab and Microsoft Research Asia (MSRA).
+I am currently an intern at ByteDance AI Lab. Starting from this fall, I'll join UCLA as a PhD student supervised by Kai-Wei Chang and Violet Peng! Prior to that, I got my M.S. degree from UIUC in 2023 supervised by Heng Ji, and my B.S. degree from USTC in 2020. I have work experience in IBM Research, Bytedance AI Lab and Microsoft Research Asia (MSRA).
 
 My research interests lie in Natural Language Processing (NLP), especially information extraction, text generation, and knowledge-aware NLP.
 
