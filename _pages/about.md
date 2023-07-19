@@ -19,7 +19,7 @@ University of Science and Technology, *09/2016 - 06/2020*
 * B.S. in Electronic Engineering and Information Science
 
 ## Publications
-* Michael Glass, **Xueqing Wu**, Ankita Rajaram Naik, Gaetano Rossiello and Alfio Gliozzo, *Retrieval-Based Transformer for Table Augmentation*, ACL Findings. 2023. [Link](https://arxiv.org/abs/2306.11843)
+* Michael Glass, **Xueqing Wu**, Ankita Rajaram Naik, Gaetano Rossiello and Alfio Gliozzo, *Retrieval-Based Transformer for Table Augmentation*, ACL Findings. 2023. [Link](https://arxiv.org/abs/2306.11843), [Code](https://github.com/ibm/retrieval-table-augmentation)
 * **Xueqing Wu**\*, Sha (Zoey) Li\*, Heng Ji, *OpenPI-C: A Better Benchmark and Stronger Baseline for Open-Vocabulary State Tracking*, ACL Findings (short paper). 2023. [Link](https://arxiv.org/abs/2306.00887), [Code](https://github.com/shirley-wu/openpi-c)
 * **Xueqing Wu**, Kung-Hsiang Huang, Yi Fung, Heng Ji, *Cross-document Misinformation Detection based on Event Graph Reasoning*, NAACL. 2022. [Link](https://blender.cs.illinois.edu/paper/crossdocdisinfo2022.pdf), [Code](https://github.com/shirley-wu/cross-doc-misinfo-detection)
 * **Xueqing Wu**, Jiacheng Zhang, Hang Li, *Text-to-Table: A New Way of Information Extraction*, ACL. 2022. [Link](https://arxiv.org/abs/2109.02707), [Code](https://github.com/shirley-wu/text_to_table)
