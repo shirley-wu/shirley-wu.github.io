@@ -4,15 +4,19 @@ title: ""
 author_profile: true
 ---
 
-I am currently an intern at ByteDance AI Lab. Starting from this fall, I'll join UCLA as a PhD student supervised by Kai-Wei Chang and Nanyun (Violet) Peng! Prior to that, I got my M.S. degree from UIUC in 2023 supervised by Heng Ji, and my B.S. degree from USTC in 2020. I have work experience in IBM Research, Bytedance AI Lab and MSRA.
+I'm a PhD student at UCLA co-advised by Kai-Wei Chang and Nanyun (Violet) Peng. Prior to that, I got my M.S. degree from UIUC in 2023 supervised by Heng Ji, and my B.S. degree from USTC in 2020. I have work experience in IBM Research, Bytedance AI Lab and MSRA.
 
 My research interests lie in Natural Language Processing (NLP), especially information extraction, text generation, and knowledge-aware NLP.
 
 ## Education
 
+University of California, Los Angeles, *09/2023 - present*
+
+* Ph.D. in Computer Science. Advisor: Kai-Wei Chang, Nanyun (Violet) Peng
+
 University of Illinois Urbana-Champaign, *08/2021 - 05/2023*
 
-* M.S. in Computer Science. Advisor: Prof. Heng Ji
+* M.S. in Computer Science. Advisor: Heng Ji
 
 University of Science and Technology, *09/2016 - 06/2020*
 
@@ -31,6 +35,10 @@ University of Science and Technology, *09/2016 - 06/2020*
 \* Equal contribution.
 
 ## Employment
+
+Bytedance AI Lab, *05/2023 - 09/2023*
+* Research intern at NLP group. Mentor: Dr. Haoran Huang
+* Conduct research on code generation.
 
 IBM Research, *05/2022 - 08/2022*
 * Research intern at knowledge induction group. Mentor: Alfio Glozzio
