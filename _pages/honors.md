@@ -6,6 +6,7 @@ author_profile: true
 
 ## Scholarships & Honors
 
+* **Graduate Dean's Scholar Award**, UCLA, *Sep. 2023*
 * **Siebel Scholar**, UIUC, *Sep. 2022*
 * **Honorary Rank** (Top 5%), USTC, *Nov. 2019*
 * **Guo Moruo Scholarship** (Highest honor at USTC, top 1%), USTC, *Oct. 2019*
