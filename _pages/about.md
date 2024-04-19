@@ -6,13 +6,9 @@ author_profile: true
 
 I am a first-year PhD student at UCLA co-advised by Kai-Wei Chang and Nanyun (Violet) Peng. Prior to that, I got my M.S. degree from UIUC in 2023 supervised by Heng Ji, and my B.S. degree from USTC in 2020. I have work experience in IBM Research, Bytedance AI Lab and MSRA.
 
-In the field of Natural Language Processing (NLP), my research interest lies in enhancing *autonomy* of NLP systems. I am currently interested in:
-* *Embodied AI*: vision-and-language model, LLM for embodied planning, modeling world dynamics
-* *Code generation*: RLHF for code generation, code generation for planning & tool usage
+My research interests lie in the field of Natural Language Processing (NLP). More specifically, I'm interested in enhancing *reasoning capability* of NLP systems, especially multi-modal reasoning and tool use capabilities.
 
 In the past I also have research experience in text generation and information extraction.
-
-**I am looking for research internship opportunities for 2024 summer.**
 
 ## Education
 
