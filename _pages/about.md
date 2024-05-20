@@ -8,8 +8,6 @@ I am a first-year PhD student at UCLA co-advised by Kai-Wei Chang and Nanyun (Vi
 
 Within the field of Natural Language Processing (NLP), I'm interested in enhancing **reasoning capability** of NLP systems, especially *multi-modal reasoning* and *tool use* capabilities.
 
-In the past I also have research experience in text generation and information extraction.
-
 ## Education
 
 University of California, Los Angeles, *09/2023 - present*
