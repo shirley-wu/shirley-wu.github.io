@@ -23,7 +23,7 @@ University of Science and Technology, *09/2016 - 06/2020*
 * B.S. in Electronic Engineering and Information Science
 
 ## Publications
-* <span style="color:red">**New!**</span> **Xueqing Wu**, Rui Zheng, Te-Lin Wu, Hanyu Zhou, Tang Mohan, Kai-Wei Chang, Nanyun Peng, Haoran Huang, *DACO: Towards Application-Driven and Comprehensive Data Analysis via Code Generation*, ICML 2024 Workshop AI4MATH. [Link](https://arxiv.org/abs/2403.02528), [Website](https://shirley-wu.github.io/daco/index.html), [Code](https://github.com/shirley-wu/daco)
+* <span style="color:red">**New!**</span> **Xueqing Wu**, Rui Zheng, Te-Lin Wu, Hanyu Zhou, Tang Mohan, Kai-Wei Chang, Nanyun Peng, Haoran Huang, *DACO: Towards Application-Driven and Comprehensive Data Analysis via Code Generation*, ICML 2024 Workshop AI4MATH. [Link](https://arxiv.org/abs/2403.02528), [Project](https://shirley-wu.github.io/daco/index.html), [Code](https://github.com/shirley-wu/daco)
 * <span style="color:red">**New!**</span> Xiao Liu, Zirui Wu, **Xueqing Wu**, Pan Lu, Kai-Wei Chang, Yansong Fengm *Are LLMs Capable of Data-based Statistical and Causal Reasoning? Benchmarking Advanced Quantitative Reasoning with Data*, ACL Findings. 2024. [Paper](https://arxiv.org/abs/2402.17644), [Website](https://xxxiaol.github.io/QRData/), [Code](https://github.com/xxxiaol/QRData)
 * Michael Glass, **Xueqing Wu**, Ankita Rajaram Naik, Gaetano Rossiello, Alfio Gliozzo, *Retrieval-Based Transformer for Table Augmentation*, ACL Findings. 2023. [Link](https://arxiv.org/abs/2306.11843), [Code](https://github.com/ibm/retrieval-table-augmentation)
 * **Xueqing Wu**\*, Sha (Zoey) Li\*, Heng Ji, *OpenPI-C: A Better Benchmark and Stronger Baseline for Open-Vocabulary State Tracking*, ACL Findings (short paper). 2023. [Link](https://arxiv.org/abs/2306.00887), [Code](https://github.com/shirley-wu/openpi-c)
@@ -36,6 +36,7 @@ University of Science and Technology, *09/2016 - 06/2020*
 
 ## Preprints
 
+* <span style="color:red">**New!**</span> **Xueqing Wu**, Zongyu Lin, Songyan Zhao, Te-Lin Wu, Pan Lu, Nanyun Peng, Kai-Wei Chang, *VDebugger: Harnessing Execution Feedback for Debugging Visual Programs*, Arxiv 2406. [Link](https://arxiv.org/abs/2406.13444), [Project](https://shirley-wu.github.io/vdebugger/index.html), [Code](https://github.com/shirley-wu/vdebugger/), [Models and Data](https://huggingface.co/VDebugger)
 * <span style="color:red">**New!**</span> Zi-Yi Dou, Cheng-Fu Yang, **Xueqing Wu**, Kai-Wei Chang, Nanyun Peng, *Reflection-Reinforced Self-Training for Language Agents*, Arxiv 2406. [Link](https://arxiv.org/pdf/2406.01495), [Code](https://github.com/PlusLabNLP/Re-ReST)
 
 ## Employment
