@@ -27,6 +27,23 @@
     });
   </script>
 
+  <script src="snakew/snake-widget.js"></script>
+  <script>
+    // Snake in the bushes (bottom-left) — tune here or via SnakeWidget.set({...})
+    SnakeWidget.init({
+      revealRadius: 100,  // px: mouse closer than this -> leaves appear
+      popRadius:    100,  // px: linger closer than this -> snake pops out
+      popDelay:     1.0,  // seconds of lingering before the snake shows
+      rustle:       1.0,  // 0..2.5 leaf shake amount
+      shyDelay:     1.0,  // seconds after mouse leaves before hiding again
+      width:        140,  // bush size in px
+      leafShadowGap: -30,  // px of air between the hanging bush and its shadow
+      maxScreenFrac: 0.15,// never wider than 15% of the window
+      left:         10,    // offset from window left
+      bottom:       0     // offset from window bottom
+    });
+  </script>
+
 </head>
 
 <body bgcolor="#FFFFFF">
@@ -41,7 +58,7 @@
 	        <name>Xueqing Wu</name>
 		<br/>(Xueqing is pronounced as Shweh-Ching)
               </p>
-	      <p>I am a second-year PhD student at <a href="https://www.cs.ucla.edu/">UCLA</a>, advised by Prof. <a href="http://web.cs.ucla.edu/~kwchang/">Kai-Wei Chang</a> and Prof. <a href="https://violetpeng.github.io/">Nanyun Peng</a>. Preivously, I received my master's degree from <a href="https://siebelschool.illinois.edu/">UIUC</a> in 2023 advised by Prof. <a href="https://blender.cs.illinois.edu/hengji.html">Heng Ji</a>, and my bachelor's degree from USTC in 2020. I have work experience in Meta, IBM Research, Bytedance AI Lab and MSRA.
+	      <p>I am a third-year PhD student at <a href="https://www.cs.ucla.edu/">UCLA</a>, advised by Prof. <a href="http://web.cs.ucla.edu/~kwchang/">Kai-Wei Chang</a> and Prof. <a href="https://violetpeng.github.io/">Nanyun Peng</a>. Preivously, I received my master's degree from <a href="https://siebelschool.illinois.edu/">UIUC</a> in 2023 advised by Prof. <a href="https://blender.cs.illinois.edu/hengji.html">Heng Ji</a>, and my bachelor's degree from USTC in 2020. I have work experience in Meta, IBM Research, Bytedance AI Lab and MSRA.
               </p>
 	      <p><b>Research:</b> My research interests focus on <b>multi-modal reasoning</b>, such as grounding, self-reflection, and reasoning enhanced by code generation.
 	      </p>
